@@ -1,5 +1,4 @@
-Hi, I'm Nguyen Ngoc Bao Minh (but my friends call me Tôm 🦐)!
-
+Hi, I'm Nguyen Ngoc Bao Minh 
 - Quality management ninja by day, rookie coder by night.
 - On a quest to conquer GitHub, one commit at a time.
 - Specialist in ISO 9001 and ISO 14001—yes, I keep things organized, even my snacks.
